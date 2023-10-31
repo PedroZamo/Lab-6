@@ -15,7 +15,7 @@ def decode(encoded_password):
 		orig_password += orig_digit
 	return orig_password
 
-
+#Test uploading changes
 def main():
 	print('Please select an option')
 	print('1. Encode password')
